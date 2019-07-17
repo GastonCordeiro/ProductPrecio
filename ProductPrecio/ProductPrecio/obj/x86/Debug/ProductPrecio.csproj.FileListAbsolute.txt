@@ -1,0 +1,27 @@
+C:\Users\Alumno\Desktop\ProgramacionI-master\ProductPrecio\ProductPrecio\bin\Debug\ProductPrecio.exe
+C:\Users\Alumno\Desktop\ProgramacionI-master\ProductPrecio\ProductPrecio\bin\Debug\ProductPrecio.pdb
+C:\Users\Alumno\Desktop\ProgramacionI-master\ProductPrecio\ProductPrecio\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\ProgramacionI-master\ProductPrecio\ProductPrecio\obj\x86\Debug\ProductPrecio.Form1.resources
+C:\Users\Alumno\Desktop\ProgramacionI-master\ProductPrecio\ProductPrecio\obj\x86\Debug\ProductPrecio.Properties.Resources.resources
+C:\Users\Alumno\Desktop\ProgramacionI-master\ProductPrecio\ProductPrecio\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Alumno\Desktop\ProgramacionI-master\ProductPrecio\ProductPrecio\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alumno\Desktop\ProgramacionI-master\ProductPrecio\ProductPrecio\obj\x86\Debug\ProductPrecio.exe
+C:\Users\Alumno\Desktop\ProgramacionI-master\ProductPrecio\ProductPrecio\obj\x86\Debug\ProductPrecio.pdb
+D:\Archivos de vs por algorry\ProductPrecio\ProductPrecio\bin\Debug\ProductPrecio.exe
+D:\Archivos de vs por algorry\ProductPrecio\ProductPrecio\bin\Debug\ProductPrecio.pdb
+D:\Archivos de vs por algorry\ProductPrecio\ProductPrecio\obj\x86\Debug\ProductPrecio.csprojAssemblyReference.cache
+D:\Archivos de vs por algorry\ProductPrecio\ProductPrecio\obj\x86\Debug\ProductPrecio.Form1.resources
+D:\Archivos de vs por algorry\ProductPrecio\ProductPrecio\obj\x86\Debug\ProductPrecio.Properties.Resources.resources
+D:\Archivos de vs por algorry\ProductPrecio\ProductPrecio\obj\x86\Debug\ProductPrecio.csproj.GenerateResource.cache
+D:\Archivos de vs por algorry\ProductPrecio\ProductPrecio\obj\x86\Debug\ProductPrecio.csproj.CoreCompileInputs.cache
+D:\Archivos de vs por algorry\ProductPrecio\ProductPrecio\obj\x86\Debug\ProductPrecio.exe
+D:\Archivos de vs por algorry\ProductPrecio\ProductPrecio\obj\x86\Debug\ProductPrecio.pdb
+E:\BACKUP\Archivos de vs por algorry\ProductPrecio\ProductPrecio\bin\Debug\ProductPrecio.exe
+E:\BACKUP\Archivos de vs por algorry\ProductPrecio\ProductPrecio\bin\Debug\ProductPrecio.pdb
+E:\BACKUP\Archivos de vs por algorry\ProductPrecio\ProductPrecio\obj\x86\Debug\ProductPrecio.csprojAssemblyReference.cache
+E:\BACKUP\Archivos de vs por algorry\ProductPrecio\ProductPrecio\obj\x86\Debug\ProductPrecio.Form1.resources
+E:\BACKUP\Archivos de vs por algorry\ProductPrecio\ProductPrecio\obj\x86\Debug\ProductPrecio.Properties.Resources.resources
+E:\BACKUP\Archivos de vs por algorry\ProductPrecio\ProductPrecio\obj\x86\Debug\ProductPrecio.csproj.GenerateResource.cache
+E:\BACKUP\Archivos de vs por algorry\ProductPrecio\ProductPrecio\obj\x86\Debug\ProductPrecio.csproj.CoreCompileInputs.cache
+E:\BACKUP\Archivos de vs por algorry\ProductPrecio\ProductPrecio\obj\x86\Debug\ProductPrecio.exe
+E:\BACKUP\Archivos de vs por algorry\ProductPrecio\ProductPrecio\obj\x86\Debug\ProductPrecio.pdb
